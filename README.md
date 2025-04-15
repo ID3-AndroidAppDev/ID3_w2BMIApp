@@ -1,4 +1,4 @@
-# Week 2: BMI App
+# [Week 2: BMI App](https://github.com/KUAS-ubicomp-lab/ID3_w2BMI)
 ![Contributors](https://img.shields.io/badge/contributor-PiranitaGomez-pink)![Contributors](https://img.shields.io/badge/contributor-CleberCarvalho-green)
 
 # Description
