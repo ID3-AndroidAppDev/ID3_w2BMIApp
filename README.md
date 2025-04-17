@@ -4,6 +4,7 @@
 # Description
 This repository contains the Android Studio implementation of the BMI app developed during Week 2 of the Introduction to Design Track 3 (ID3) course. The app calculates users' Body Mass Index (BMI) based on their body weight and height. 
 
+The week2_BMI4watch is a WearOS app, while week2_BMIapp is an Android app. When build these apps in your local environment, you might get an error "The project is using an incompatible version (AGP 8.9.1) of the Android Gradle plugin. Latest supported version is AGP 8.x.x". You need to either upgrade your Android Studio and Gradle version, or downgrade the Android Gradle Plugin in the project. You can do that by modifying the agp and kotlin versions in file libs.versions.toml, and make any necessary adjustement build.gradle.kts, gradle-wrapper.properties.
 
 # Miscellaneous
 ### The ID3 Course
