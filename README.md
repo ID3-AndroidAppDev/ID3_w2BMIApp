@@ -9,5 +9,4 @@ The week2_BMI4watch is a WearOS app, while week2_BMIapp is an Android app. When 
 The worked examples include only the basic features. Developers are encouraged to unleash their creativity and add awesome new features to expand the functionality of the apps. The sky's the limit—build something amazing!
 
 > Design is not just what it looks like and feels like. Design is how it works.
->
 > -- <cite>Steve Jobs</cite>
